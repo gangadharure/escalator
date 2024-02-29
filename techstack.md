@@ -36,7 +36,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [gangadharure/escalator](https://github.com/gangadharure/escalator)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|42<br/>Tools used|02/15/24 <br/>Report generated|
+|42<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
